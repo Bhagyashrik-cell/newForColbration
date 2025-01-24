@@ -13,4 +13,9 @@ System.out.println("sub method");
 {
 System.out.println("multi method");	
 }
+  public void div()
+  {
+	  System.out.println("div method");
+  }
+  
 }
