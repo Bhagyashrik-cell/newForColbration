@@ -9,5 +9,8 @@ public void sub()
 {
 System.out.println("sub method");	
 }
-  
+  public void mul()
+{
+System.out.println("multi method");	
+}
 }
